@@ -1,2 +1,2 @@
 # Strength Prediction of Geopolymer Concrete 
- Dataset will be uploaded here.
+ Dataset is available here.
